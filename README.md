@@ -45,7 +45,7 @@ calculateTrees      = "TRUE"                                                    
 saveTrees           = "FALSE"                                                                # save (TRUE) trees (if they are calculated here)
 Kcrossvalidation    = 10                                                                     # # of data partitions (K) in a K-fold CV 
 Nkfoldcv            = 10                                                                     # how many rounds of k-fold cv is wanted   
-Nbootstrapsets      = 4                                                                   # # of bootstrap sets
+Nbootstrapsets      = 2000                                                                   # # of bootstrap sets
 ```
 
 
