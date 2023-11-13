@@ -1,0 +1,317 @@
+Chironectes_minimus, {{100, 0.87}}
+Tamandua_tetradactyla, {{32, 0.78}, {68, 0.79}}
+Diplomesodon_pulchellum, {{67, 0.67}, {33, 0.68}}
+Meles_meles, {{100, 0.39}}
+Phocanella_pumila, {{100, 0.96}}
+Nyctereutes_procyonoides, {{49, 0.38}, {51, 0.39}}
+Indohyus, {{100, 0.9}}
+Hexaprotodon_garyam, {{100, 0.68}}
+Anarosaurus, {{100, 0.98}}
+Neusticosaurus, {{100, 1.0}}
+Lacerta_viridis, {{49, 0.45}, {51, 0.46}}
+Spinosaurus_.11, {{26, 0.47}, {32, 0.45}, {26, 0.46}, {16, 0.44}}
+Spinosaurus_.10, {{13, 0.47}, {36, 0.5}, {1, 0.51}, {28, 0.49}, {22, 0.48}}
+Spinosaurus_.9, {{20, 0.95}, {80, 0.94}}
+Spinosaurus_.8, {{77, 0.92}, {23, 0.93}}
+Spinosaurus_.7, {{78, 0.88}, {22, 0.87}}
+Spinosaurus_.6, {{11, 0.79}, {43, 0.81}, {46, 0.8}}
+Spinosaurus_.5, {{100, 0.97}}
+Spinosaurus_.4, {{100, 0.94}}
+Spinosaurus_.3, {{88, 0.92}, {12, 0.91}}
+Spinosaurus_.2, {{27, 0.88}, {4, 0.86}, {69, 0.87}}
+Spinosaurus_.1, {{16, 0.78}, {44, 0.79}, {40, 0.8}}
+Spinosaurus_, {{100, 0.97}}
+Baryonyx.3, {{32, 0.73}, {68, 0.74}}
+Baryonyx.2, {{96, 0.86}, {4, 0.87}}
+Baryonyx.1, {{100, 0.94}}
+Suchomimus.3, {{79, 0.3}, {17, 0.31}, {4, 0.29}}
+Suchomimus.2, {{81, 0.47}, {19, 0.46}}
+Suchomimus.1, {{56, 0.3}, {44, 0.29}}
+Suchomimus, {{14, 0.47}, {86, 0.46}}
+Baryonyx, {{100, 0.93}}
+Porphyrio_hochstetteri, {{1, 0.13}, {99, 0.14}}
+Elephas_maximus, {{100, 0.84}}
+Mus_musculus, {{100, 0.04}}
+Vulpes_vulpes, {{100, 0.11}}
+Maiacetus, {{100, 0.99}}
+Hippopotamus_amphibius, {{100, 0.9}}
+Bison_bonasus, {{1, 0.22}, {99, 0.21}}
+Rangifer_tarandus, {{34, 0.07}, {66, 0.06}}
+Simosaurus_1, {{69, 0.73}, {31, 0.72}}
+Protochampsidae, {{13, 0.18}, {28, 0.2}, {59, 0.19}}
+Spinosaurus_.11, {{30, 0.43}, {11, 0.42}, {32, 0.45}, {2, 0.46}, {25, 0.44}}
+Spinosaurus_.10, {{22, 0.47}, {1, 0.5}, {15, 0.46}, {29, 0.48}, {33, 0.49}}
+Spinosaurus_.9, {{100, 0.97}}
+Spinosaurus_.8, {{10, 0.95}, {90, 0.96}}
+Spinosaurus_.7, {{51, 0.92}, {49, 0.93}}
+Spinosaurus_.6, {{15, 0.85}, {73, 0.86}, {12, 0.87}}
+Spinosaurus_.5, {{100, 0.99}}
+Spinosaurus_.4, {{23, 0.96}, {77, 0.97}}
+Spinosaurus_.3, {{100, 0.95}}
+Spinosaurus_.2, {{13, 0.92}, {87, 0.91}}
+Spinosaurus_.1, {{8, 0.85}, {61, 0.84}, {31, 0.83}}
+Spinosaurus_, {{59, 0.98}, {41, 0.99}}
+Baryonyx.3, {{2, 0.81}, {98, 0.8}}
+Baryonyx.2, {{66, 0.92}, {34, 0.91}}
+Baryonyx.1, {{100, 0.97}}
+Suchomimus.3, {{64, 0.3}, {36, 0.29}}
+Suchomimus.2, {{80, 0.5}, {20, 0.49}}
+Suchomimus.1, {{77, 0.28}, {23, 0.29}}
+Suchomimus, {{1, 0.47}, {92, 0.48}, {7, 0.49}}
+Baryonyx, {{100, 0.96}}
+Phalacrocorax_harrisi, {{100, 0.28}}
+Spheniscus, {{100, 0.9}}
+Dasyurus_maculatus, {{100, 0.66}}
+Dicerorhinus_sumatrensis, {{100, 0.8}}
+Bos_taurus, {{24, 0.63}, {76, 0.62}}
+Capreolus_capreolus, {{25, 0.1}, {75, 0.11}}
+Alces_americanus, {{21, 0.37}, {79, 0.38}}
+Champsosaurus, {{95, 0.96}, {5, 0.97}}
+Ichtyosaur_sp, {{100, 0.87}}
+Rhaeticosaurus, {{100, 0.99}}
+Nothosaurus_mirabilis, {{6, 0.92}, {94, 0.93}}
+Sphenodon_punctatus, {{100, 0.7}}
+Spinosaurus_.11, {{30, 0.47}, {1, 0.5}, {16, 0.46}, {24, 0.48}, {29, 0.49}}
+Spinosaurus_.10, {{13, 0.53}, {34, 0.52}, {23, 0.5}, {23, 0.51}, {7, 0.49}}
+Spinosaurus_.9, {{100, 0.96}}
+Spinosaurus_.8, {{80, 0.95}, {20, 0.94}}
+Spinosaurus_.7, {{14, 0.92}, {85, 0.91}, {1, 0.9}}
+Spinosaurus_.6, {{55, 0.85}, {2, 0.86}, {43, 0.84}}
+Spinosaurus_.5, {{100, 0.98}}
+Spinosaurus_.4, {{100, 0.96}}
+Spinosaurus_.3, {{100, 0.94}}
+Spinosaurus_.2, {{20, 0.91}, {80, 0.9}}
+Spinosaurus_.1, {{25, 0.84}, {56, 0.83}, {19, 0.82}}
+Spinosaurus_, {{100, 0.98}}
+Baryonyx.3, {{1, 0.78}, {98, 0.79}, {1, 0.8}}
+Baryonyx.2, {{1, 0.91}, {99, 0.9}}
+Baryonyx.1, {{100, 0.96}}
+Suchomimus.3, {{59, 0.33}, {41, 0.32}}
+Suchomimus.2, {{13, 0.52}, {2, 0.5}, {85, 0.51}}
+Suchomimus.1, {{53, 0.32}, {47, 0.31}}
+Suchomimus, {{95, 0.5}, {5, 0.51}}
+Baryonyx, {{100, 0.95}}
+Raphus, {{94, 0.24}, {6, 0.23}}
+large_eocene_stem_penguin, {{100, 0.98}}
+Micropotamogale_euwenzorii, {{100, 0.82}}
+Microgale_thomasi, {{22, 0.18}, {78, 0.17}}
+Castor_fiber, {{100, 0.74}}
+Lutra_vulgaris, {{100, 0.87}}
+Brachyodus_onoideum, {{99, 0.78}, {1, 0.79}}
+Dama_dama, {{43, 0.24}, {57, 0.25}}
+Chapsosaurus_, {{100, 0.96}}
+Placodontia_indet_1, {{100, 0.97}}
+Pistosaurus, {{73, 0.95}, {27, 0.96}}
+Nothosaurus_150, {{100, 0.99}}
+Alligator, {{100, 0.89}}
+Spinosaurus_.11, {{23, 0.47}, {12, 0.5}, {14, 0.46}, {23, 0.48}, {28, 0.49}}
+Spinosaurus_.10, {{27, 0.53}, {29, 0.52}, {19, 0.5}, {21, 0.51}, {4, 0.49}}
+Spinosaurus_.9, {{100, 0.96}}
+Spinosaurus_.8, {{83, 0.94}, {17, 0.95}}
+Spinosaurus_.7, {{74, 0.91}, {26, 0.9}}
+Spinosaurus_.6, {{51, 0.85}, {1, 0.86}, {42, 0.84}, {6, 0.83}}
+Spinosaurus_.5, {{100, 0.98}}
+Spinosaurus_.4, {{89, 0.95}, {11, 0.96}}
+Spinosaurus_.3, {{50, 0.94}, {50, 0.93}}
+Spinosaurus_.2, {{52, 0.9}, {48, 0.89}}
+Spinosaurus_.1, {{8, 0.81}, {48, 0.83}, {44, 0.82}}
+Spinosaurus_, {{97, 0.98}, {3, 0.97}}
+Baryonyx.3, {{79, 0.79}, {21, 0.8}}
+Baryonyx.2, {{100, 0.9}}
+Baryonyx.1, {{14, 0.95}, {86, 0.96}}
+Suchomimus.3, {{1, 0.34}, {38, 0.36}, {61, 0.35}}
+Suchomimus.2, {{76, 0.53}, {24, 0.54}}
+Suchomimus.1, {{80, 0.34}, {7, 0.33}, {13, 0.35}}
+Suchomimus, {{3, 0.53}, {88, 0.52}, {9, 0.51}}
+Baryonyx, {{100, 0.95}}
+Dromaius_, {{100, 0.06}}
+Monodelphis_domestica, {{28, 0.66}, {72, 0.65}}
+Loxodonta_africana, {{100, 0.97}}
+Mammuthus_sp, {{100, 0.91}}
+Hemiechinus_azurites, {{100, 0.63}}
+Leptophoca_proxima, {{63, 0.73}, {37, 0.74}}
+Uncia_uncia, {{99, 0.45}, {1, 0.44}}
+Ceratotherium_simum, {{87, 0.94}, {13, 0.93}}
+Rhinoceros_sondaicus, {{100, 0.78}}
+Sus_scrofa, {{93, 0.2}, {7, 0.21}}
+Nothosaurus_giganteus, {{88, 0.68}, {10, 0.67}, {2, 0.69}}
+Spinosaurus_.11, {{34, 0.53}, {3, 0.54}, {25, 0.52}, {13, 0.5}, {25, 0.51}}
+Spinosaurus_.10, {{2, 0.58}, {29, 0.56}, {11, 0.54}, {22, 0.55}, {36, 0.57}}
+Spinosaurus_.9, {{100, 0.98}}
+Spinosaurus_.8, {{60, 0.98}, {40, 0.97}}
+Spinosaurus_.7, {{55, 0.95}, {45, 0.96}}
+Spinosaurus_.6, {{5, 0.92}, {91, 0.91}, {4, 0.9}}
+Spinosaurus_.5, {{100, 0.99}}
+Spinosaurus_.4, {{100, 0.98}}
+Spinosaurus_.3, {{100, 0.97}}
+Spinosaurus_.2, {{79, 0.94}, {21, 0.95}}
+Spinosaurus_.1, {{15, 0.88}, {7, 0.9}, {78, 0.89}}
+Spinosaurus_, {{100, 0.99}}
+Baryonyx.3, {{3, 0.88}, {97, 0.87}}
+Baryonyx.2, {{100, 0.95}}
+Baryonyx.1, {{100, 0.98}}
+Suchomimus.3, {{5, 0.4}, {27, 0.38}, {68, 0.39}}
+Suchomimus.2, {{74, 0.61}, {26, 0.6}}
+Suchomimus.1, {{54, 0.37}, {46, 0.36}}
+Suchomimus, {{43, 0.59}, {57, 0.58}}
+Baryonyx, {{100, 0.98}}
+Apteryx_australis, {{100, 0.13}}
+Strigiops_habroptilus, {{10, 0.03}, {90, 0.02}}
+Ornithorhynchus_anatinus, {{100, 0.91}}
+Mustela_nivalis, {{25, 0.28}, {75, 0.27}}
+Callophoca_obscura, {{95, 0.69}, {5, 0.7}}
+Okapia_johnstoni, {{100, 0.44}}
+Giraffa_camelopardalis, {{100, 0.3}}
+Psephoderma, {{100, 0.92}}
+Paraplacodus, {{94, 0.99}, {6, 1.0}}
+Serpianosaurus, {{100, 1.0}}
+Plesiosaurus, {{100, 0.98}}
+Dyrosaurid, {{76, 0.28}, {24, 0.29}}
+Caiman_yacare, {{100, 0.94}}
+Spinosaurus_.11, {{23, 0.47}, {15, 0.45}, {30, 0.46}, {29, 0.48}, {3, 0.49}}
+Spinosaurus_.10, {{22, 0.5}, {23, 0.52}, {33, 0.51}, {3, 0.48}, {19, 0.49}}
+Spinosaurus_.9, {{44, 0.96}, {56, 0.97}}
+Spinosaurus_.8, {{100, 0.95}}
+Spinosaurus_.7, {{62, 0.92}, {38, 0.91}}
+Spinosaurus_.6, {{63, 0.85}, {21, 0.86}, {16, 0.84}}
+Spinosaurus_.5, {{99, 0.98}, {1, 0.99}}
+Spinosaurus_.4, {{100, 0.96}}
+Spinosaurus_.3, {{46, 0.95}, {54, 0.94}}
+Spinosaurus_.2, {{60, 0.91}, {40, 0.9}}
+Spinosaurus_.1, {{46, 0.84}, {7, 0.82}, {47, 0.83}}
+Spinosaurus_, {{100, 0.98}}
+Baryonyx.3, {{90, 0.79}, {10, 0.8}}
+Baryonyx.2, {{79, 0.91}, {21, 0.9}}
+Baryonyx.1, {{100, 0.96}}
+Suchomimus.3, {{64, 0.32}, {36, 0.31}}
+Suchomimus.2, {{25, 0.5}, {75, 0.51}}
+Suchomimus.1, {{44, 0.3}, {56, 0.31}}
+Suchomimus, {{52, 0.5}, {48, 0.49}}
+Baryonyx, {{80, 0.95}, {20, 0.96}}
+Rynochetus_jubatus, {{100, 0.03}}
+Desmostylus_hesperus, {{100, 0.33}}
+Rhynchocyon_petersi, {{100, 0.1}}
+Nanophoca_vitulinoides, {{100, 0.96}}
+Paguma_larvata, {{15, 0.43}, {85, 0.42}}
+Elomeryx_borbonicus_, {{87, 0.3}, {13, 0.29}}
+Syncerus_caffer, {{2, 0.69}, {98, 0.7}}
+Pogona_viceps, {{84, 0.06}, {16, 0.05}}
+Metryorhynchus, {{100, 0.86}}
+Spinosaurus_.11, {{31, 0.43}, {6, 0.42}, {32, 0.45}, {4, 0.46}, {27, 0.44}}
+Spinosaurus_.10, {{27, 0.47}, {4, 0.45}, {24, 0.46}, {41, 0.48}, {4, 0.49}}
+Spinosaurus_.9, {{100, 0.94}}
+Spinosaurus_.8, {{85, 0.92}, {15, 0.91}}
+Spinosaurus_.7, {{41, 0.88}, {1, 0.86}, {58, 0.87}}
+Spinosaurus_.6, {{41, 0.79}, {6, 0.81}, {53, 0.8}}
+Spinosaurus_.5, {{100, 0.97}}
+Spinosaurus_.4, {{36, 0.94}, {64, 0.93}}
+Spinosaurus_.3, {{5, 0.92}, {95, 0.91}}
+Spinosaurus_.2, {{6, 0.85}, {69, 0.86}, {25, 0.87}}
+Spinosaurus_.1, {{54, 0.78}, {25, 0.79}, {21, 0.77}}
+Spinosaurus_, {{38, 0.96}, {62, 0.97}}
+Baryonyx.3, {{82, 0.73}, {18, 0.74}}
+Baryonyx.2, {{100, 0.86}}
+Baryonyx.1, {{2, 0.94}, {98, 0.93}}
+Suchomimus.3, {{29, 0.3}, {71, 0.31}}
+Suchomimus.2, {{89, 0.47}, {5, 0.46}, {6, 0.48}}
+Suchomimus.1, {{85, 0.3}, {2, 0.31}, {13, 0.29}}
+Suchomimus, {{4, 0.47}, {96, 0.46}}
+Baryonyx, {{97, 0.92}, {3, 0.93}}
+Hesperornis, {{1, 0.64}, {99, 0.65}}
+Atlantisia_rogersi, {{100, 0.08}}
+Tribonyx_mortieri, {{65, 0.15}, {35, 0.16}}
+Small_Eocene_penguin, {{100, 0.95}}
+Tenrec_ecaudatus, {{1, 0.78}, {99, 0.77}}
+Myrmecophaga_tridactyla, {{100, 0.76}}
+Rattus_rattus, {{100, 0.19}}
+Taxidea_taxus, {{100, 0.54}}
+Felis_felis, {{100, 0.18}}
+Basilosaurus, {{100, 0.96}}
+Cephalophus_silvicultor, {{72, 0.45}, {28, 0.46}}
+Megaloceros_sp, {{3, 0.2}, {97, 0.19}}
+Cryptoclidus, {{100, 0.99}}
+Nothosaurus_568, {{100, 0.98}}
+Spinosaurus_.11, {{28, 0.47}, {3, 0.5}, {4, 0.46}, {29, 0.48}, {36, 0.49}}
+Spinosaurus_.10, {{18, 0.53}, {40, 0.52}, {18, 0.5}, {24, 0.51}}
+Spinosaurus_.9, {{100, 0.96}}
+Spinosaurus_.8, {{53, 0.95}, {47, 0.94}}
+Spinosaurus_.7, {{95, 0.91}, {5, 0.9}}
+Spinosaurus_.6, {{56, 0.85}, {44, 0.84}}
+Spinosaurus_.5, {{100, 0.98}}
+Spinosaurus_.4, {{34, 0.95}, {66, 0.96}}
+Spinosaurus_.3, {{91, 0.94}, {9, 0.93}}
+Spinosaurus_.2, {{88, 0.9}, {12, 0.89}}
+Spinosaurus_.1, {{3, 0.84}, {67, 0.83}, {30, 0.82}}
+Spinosaurus_, {{100, 0.98}}
+Baryonyx.3, {{99, 0.79}, {1, 0.8}}
+Baryonyx.2, {{100, 0.9}}
+Baryonyx.1, {{100, 0.96}}
+Suchomimus.3, {{71, 0.34}, {1, 0.33}, {28, 0.35}}
+Suchomimus.2, {{45, 0.53}, {55, 0.52}}
+Suchomimus.1, {{84, 0.33}, {10, 0.34}, {6, 0.32}}
+Suchomimus, {{10, 0.52}, {90, 0.51}}
+Baryonyx, {{100, 0.95}}
+Apteryx_owenii_, {{100, 0.09}}
+Caloenas_nicobarica, {{100, 0.02}}
+Procavia_capensis, {{100, 0.54}}
+Otaria_byronia, {{40, 0.85}, {60, 0.84}}
+Tapirus_terrestris, {{100, 0.56}}
+Remingtonocetus, {{22, 0.78}, {78, 0.77}}
+Rodhocetus, {{100, 0.94}}
+Choeropsis_liberiensis, {{76, 0.76}, {24, 0.75}}
+Nothosaurus_mirabilis_1, {{92, 0.78}, {3, 0.79}, {5, 0.77}}
+Nothosaurus_102, {{100, 0.99}}
+Cricosaurus, {{100, 0.93}}
+Spinosaurus_.11, {{27, 0.43}, {8, 0.42}, {30, 0.45}, {11, 0.46}, {24, 0.44}}
+Spinosaurus_.10, {{24, 0.47}, {1, 0.45}, {18, 0.46}, {25, 0.48}, {32, 0.49}}
+Spinosaurus_.9, {{93, 0.95}, {7, 0.96}}
+Spinosaurus_.8, {{39, 0.94}, {61, 0.93}}
+Spinosaurus_.7, {{4, 0.88}, {26, 0.9}, {70, 0.89}}
+Spinosaurus_.6, {{40, 0.81}, {51, 0.82}, {7, 0.83}, {2, 0.8}}
+Spinosaurus_.5, {{100, 0.98}}
+Spinosaurus_.4, {{98, 0.95}, {2, 0.94}}
+Spinosaurus_.3, {{15, 0.92}, {85, 0.93}}
+Spinosaurus_.2, {{66, 0.88}, {31, 0.89}, {3, 0.87}}
+Spinosaurus_.1, {{17, 0.79}, {38, 0.81}, {45, 0.8}}
+Spinosaurus_, {{43, 0.98}, {57, 0.97}}
+Baryonyx.3, {{5, 0.76}, {95, 0.75}}
+Baryonyx.2, {{100, 0.88}}
+Baryonyx.1, {{100, 0.95}}
+Suchomimus.3, {{7, 0.28}, {14, 0.3}, {79, 0.29}}
+Suchomimus.2, {{76, 0.47}, {24, 0.46}}
+Suchomimus.1, {{71, 0.28}, {29, 0.29}}
+Suchomimus, {{1, 0.47}, {15, 0.45}, {84, 0.46}}
+Baryonyx, {{100, 0.94}}
+Xenicus_giliventris, {{100, 0.02}}
+Palaeospheniscus, {{100, 0.78}}
+Hydromys_chrysogaster, {{36, 0.5}, {64, 0.51}}
+Noemys_fodies, {{2, 0.53}, {98, 0.52}}
+Desmana_moschata, {{100, 0.91}}
+Euroscaptor_micrura, {{100, 0.42}}
+Procyon_lotor, {{100, 0.44}}
+Lama_guanicoe, {{100, 0.09}}
+Rupicapra_rupicapra, {{87, 0.07}, {13, 0.08}}
+Ichtyosaurus_, {{70, 0.37}, {28, 0.38}, {2, 0.36}}
+Placondontia_indet, {{100, 1.0}}
+Simosaurus, {{3, 0.96}, {97, 0.97}}
+Spinosaurus_.11, {{26, 0.43}, {12, 0.42}, {30, 0.45}, {7, 0.46}, {25, 0.44}}
+Spinosaurus_.10, {{21, 0.47}, {2, 0.45}, {20, 0.46}, {27, 0.48}, {30, 0.49}}
+Spinosaurus_.9, {{28, 0.95}, {72, 0.96}}
+Spinosaurus_.8, {{89, 0.94}, {11, 0.93}}
+Spinosaurus_.7, {{79, 0.9}, {21, 0.89}}
+Spinosaurus_.6, {{3, 0.81}, {3, 0.84}, {53, 0.83}, {41, 0.82}}
+Spinosaurus_.5, {{100, 0.98}}
+Spinosaurus_.4, {{100, 0.95}}
+Spinosaurus_.3, {{6, 0.94}, {94, 0.93}}
+Spinosaurus_.2, {{28, 0.88}, {72, 0.89}}
+Spinosaurus_.1, {{52, 0.81}, {17, 0.82}, {31, 0.8}}
+Spinosaurus_, {{100, 0.98}}
+Baryonyx.3, {{84, 0.76}, {16, 0.77}}
+Baryonyx.2, {{1, 0.88}, {99, 0.89}}
+Baryonyx.1, {{100, 0.95}}
+Suchomimus.3, {{62, 0.3}, {38, 0.29}}
+Suchomimus.2, {{26, 0.47}, {74, 0.48}}
+Suchomimus.1, {{36, 0.28}, {1, 0.3}, {63, 0.29}}
+Suchomimus, {{50, 0.47}, {50, 0.46}}
+Baryonyx, {{99, 0.94}, {1, 0.95}}
+Aptenodytes______, {{100, 0.9}}
