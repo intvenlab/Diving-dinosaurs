@@ -1,0 +1,88 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_675
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_675/femur_set_675.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Xenicus_giliventris","Xenicus_giliventris.1"
+"2","Xenicus_giliventris","Xenicus_giliventris.2"
+"3","Bison_bonasus","Bison_bonasus.1"
+"4","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"5","Tribonyx_mortieri","Tribonyx_mortieri.1"
+"6","Dromaius_","Dromaius_.1"
+"7","Xenicus_giliventris","Xenicus_giliventris.3"
+"8","Dromaius_","Dromaius_.2"
+"9","Dasyurus_maculatus","Dasyurus_maculatus.1"
+"10","Procavia_capensis","Procavia_capensis.1"
+"11","Ceratotherium_simum","Ceratotherium_simum.1"
+"12","Tribonyx_mortieri","Tribonyx_mortieri.2"
+"13","Cephalophus_silvicultor","Cephalophus_silvicultor.1"
+"14","Taxidea_taxus","Taxidea_taxus.1"
+"15","Mammuthus_sp","Mammuthus_sp.1"
+"16","Meles_meles","Meles_meles.1"
+"17","Lama_guanicoe","Lama_guanicoe.1"
+"18","Taxidea_taxus","Taxidea_taxus.2"
+"19","Elephas_maximus","Elephas_maximus.1"
+"20","Procavia_capensis","Procavia_capensis.2"
+"21","Rhinoceros_sondaicus","Rhinoceros_sondaicus.1"
+"22","Basilosaurus","Basilosaurus.1"
+"23","Phocanella_pumila","Phocanella_pumila.1"
+"24","Maiacetus","Maiacetus.1"
+"25","Aptenodytes______","Aptenodytes______.1"
+"26","Plesiosaurus","Plesiosaurus.1"
+"27","Cryptoclidus","Cryptoclidus.1"
+"28","Nothosaurus_150","Nothosaurus_150.1"
+"29","Basilosaurus","Basilosaurus.2"
+"30","Basilosaurus","Basilosaurus.3"
+"31","Hydromys_chrysogaster","Hydromys_chrysogaster.1"
+"32","Phocanella_pumila","Phocanella_pumila.2"
+"33","Nothosaurus_150","Nothosaurus_150.2"
+"34","Placondontia_indet","Placondontia_indet.1"
+"35","Placondontia_indet","Placondontia_indet.2"
+"36","Phalacrocorax_harrisi","Phalacrocorax_harrisi.1"
+"37","Alligator","Alligator.1"
+"38","Caiman_yacare","Caiman_yacare.1"
+"39","Desmostylus_hesperus","Desmostylus_hesperus.1"
+"40","Protochampsidae","Protochampsidae.1"
+"41","Leptophoca_proxima","Leptophoca_proxima.1"
+"42","Choeropsis_liberiensis","Choeropsis_liberiensis.1"
+"43","Placodontia_indet_1","Placodontia_indet_1.1"
+"44","Spinosaurus_","Spinosaurus_.1"
+"45","Spinosaurus_","Spinosaurus_.2"
+"46","Spinosaurus_","Spinosaurus_.3"
+"47","Spinosaurus_","Spinosaurus_.4"
+"48","Spinosaurus_","Spinosaurus_.5"
+"49","Spinosaurus_","Spinosaurus_.6"
+"50","Spinosaurus_","Spinosaurus_.7"
+"51","Spinosaurus_","Spinosaurus_.8"
+"52","Spinosaurus_","Spinosaurus_.9"
+"53","Spinosaurus_","Spinosaurus_.10"
+"54","Spinosaurus_","Spinosaurus_.11"
+"55","Suchomimus","Suchomimus.1"
+"56","Suchomimus","Suchomimus.2"
+"57","Suchomimus","Suchomimus.3"
+"58","Baryonyx","Baryonyx.1"
+"59","Baryonyx","Baryonyx.2"
+"60","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.06
+* index-name alignment check: OK

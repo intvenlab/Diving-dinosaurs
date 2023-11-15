@@ -1,0 +1,88 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_481
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_481/femur_set_481.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Brachyodus_onoideum","Brachyodus_onoideum.1"
+"2","Tribonyx_mortieri","Tribonyx_mortieri.1"
+"3","Raphus","Raphus.1"
+"4","Bos_taurus","Bos_taurus.1"
+"5","Strigiops_habroptilus","Strigiops_habroptilus.1"
+"6","Dasyurus_maculatus","Dasyurus_maculatus.1"
+"7","Monodelphis_domestica","Monodelphis_domestica.1"
+"8","Capreolus_capreolus","Capreolus_capreolus.1"
+"9","Raphus","Raphus.2"
+"10","Procyon_lotor","Procyon_lotor.1"
+"11","Apteryx_owenii_","Apteryx_owenii_.1"
+"12","Brachyodus_onoideum","Brachyodus_onoideum.2"
+"13","Sphenodon_punctatus","Sphenodon_punctatus.1"
+"14","Uncia_uncia","Uncia_uncia.1"
+"15","Apteryx_australis","Apteryx_australis.1"
+"16","Dasyurus_maculatus","Dasyurus_maculatus.2"
+"17","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"18","Pogona_viceps","Pogona_viceps.1"
+"19","Dromaius_","Dromaius_.1"
+"20","Tribonyx_mortieri","Tribonyx_mortieri.2"
+"21","Bison_bonasus","Bison_bonasus.1"
+"22","Chapsosaurus_","Chapsosaurus_.1"
+"23","Rhaeticosaurus","Rhaeticosaurus.1"
+"24","Nothosaurus_102","Nothosaurus_102.1"
+"25","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.1"
+"26","Lutra_vulgaris","Lutra_vulgaris.1"
+"27","Aptenodytes______","Aptenodytes______.1"
+"28","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.2"
+"29","Nanophoca_vitulinoides","Nanophoca_vitulinoides.1"
+"30","Rhaeticosaurus","Rhaeticosaurus.2"
+"31","Aptenodytes______","Aptenodytes______.2"
+"32","Small_Eocene_penguin","Small_Eocene_penguin.1"
+"33","Anarosaurus","Anarosaurus.1"
+"34","Rhaeticosaurus","Rhaeticosaurus.3"
+"35","Ichtyosaur_sp","Ichtyosaur_sp.1"
+"36","Otaria_byronia","Otaria_byronia.1"
+"37","Otaria_byronia","Otaria_byronia.2"
+"38","Ichtyosaur_sp","Ichtyosaur_sp.2"
+"39","Alligator","Alligator.1"
+"40","Cricosaurus","Cricosaurus.1"
+"41","Indohyus","Indohyus.1"
+"42","Dyrosaurid","Dyrosaurid.1"
+"43","Simosaurus_1","Simosaurus_1.1"
+"44","Spinosaurus_","Spinosaurus_.1"
+"45","Spinosaurus_","Spinosaurus_.2"
+"46","Spinosaurus_","Spinosaurus_.3"
+"47","Spinosaurus_","Spinosaurus_.4"
+"48","Spinosaurus_","Spinosaurus_.5"
+"49","Spinosaurus_","Spinosaurus_.6"
+"50","Spinosaurus_","Spinosaurus_.7"
+"51","Spinosaurus_","Spinosaurus_.8"
+"52","Spinosaurus_","Spinosaurus_.9"
+"53","Spinosaurus_","Spinosaurus_.10"
+"54","Spinosaurus_","Spinosaurus_.11"
+"55","Suchomimus","Suchomimus.1"
+"56","Suchomimus","Suchomimus.2"
+"57","Suchomimus","Suchomimus.3"
+"58","Baryonyx","Baryonyx.1"
+"59","Baryonyx","Baryonyx.2"
+"60","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.1
+* index-name alignment check: OK

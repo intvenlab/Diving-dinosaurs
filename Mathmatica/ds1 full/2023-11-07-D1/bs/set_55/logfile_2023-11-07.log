@@ -1,0 +1,90 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_55
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_55/femur_set_55.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Pogona_viceps","Pogona_viceps.1"
+"2","Pogona_viceps","Pogona_viceps.2"
+"3","Pogona_viceps","Pogona_viceps.3"
+"4","Mammuthus_sp","Mammuthus_sp.1"
+"5","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"6","Ceratotherium_simum","Ceratotherium_simum.1"
+"7","Euroscaptor_micrura","Euroscaptor_micrura.1"
+"8","Paguma_larvata","Paguma_larvata.1"
+"9","Pogona_viceps","Pogona_viceps.4"
+"10","Caloenas_nicobarica","Caloenas_nicobarica.1"
+"11","Euroscaptor_micrura","Euroscaptor_micrura.2"
+"12","Uncia_uncia","Uncia_uncia.1"
+"13","Sphenodon_punctatus","Sphenodon_punctatus.1"
+"14","Procavia_capensis","Procavia_capensis.1"
+"15","Sphenodon_punctatus","Sphenodon_punctatus.2"
+"16","Uncia_uncia","Uncia_uncia.2"
+"17","Bos_taurus","Bos_taurus.1"
+"18","Sphenodon_punctatus","Sphenodon_punctatus.3"
+"19","Apteryx_owenii_","Apteryx_owenii_.1"
+"20","Mus_musculus","Mus_musculus.1"
+"21","Sphenodon_punctatus","Sphenodon_punctatus.4"
+"22","Sus_scrofa","Sus_scrofa.1"
+"23","Euroscaptor_micrura","Euroscaptor_micrura.3"
+"24","Rangifer_tarandus","Rangifer_tarandus.1"
+"25","Megaloceros_sp","Megaloceros_sp.1"
+"26","Ichtyosaurus_","Ichtyosaurus_.1"
+"27","Small_Eocene_penguin","Small_Eocene_penguin.1"
+"28","Cryptoclidus","Cryptoclidus.1"
+"29","Nothosaurus_mirabilis_1","Nothosaurus_mirabilis_1.1"
+"30","Castor_fiber","Castor_fiber.1"
+"31","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.1"
+"32","Leptophoca_proxima","Leptophoca_proxima.1"
+"33","Small_Eocene_penguin","Small_Eocene_penguin.2"
+"34","Lutra_vulgaris","Lutra_vulgaris.1"
+"35","Leptophoca_proxima","Leptophoca_proxima.2"
+"36","Choeropsis_liberiensis","Choeropsis_liberiensis.1"
+"37","Small_Eocene_penguin","Small_Eocene_penguin.3"
+"38","Caiman_yacare","Caiman_yacare.1"
+"39","Leptophoca_proxima","Leptophoca_proxima.3"
+"40","Hesperornis","Hesperornis.1"
+"41","Noemys_fodies","Noemys_fodies.1"
+"42","Tapirus_terrestris","Tapirus_terrestris.1"
+"43","Nanophoca_vitulinoides","Nanophoca_vitulinoides.1"
+"44","Lutra_vulgaris","Lutra_vulgaris.2"
+"45","Phocanella_pumila","Phocanella_pumila.1"
+"46","Spinosaurus_","Spinosaurus_.1"
+"47","Spinosaurus_","Spinosaurus_.2"
+"48","Spinosaurus_","Spinosaurus_.3"
+"49","Spinosaurus_","Spinosaurus_.4"
+"50","Spinosaurus_","Spinosaurus_.5"
+"51","Spinosaurus_","Spinosaurus_.6"
+"52","Spinosaurus_","Spinosaurus_.7"
+"53","Spinosaurus_","Spinosaurus_.8"
+"54","Spinosaurus_","Spinosaurus_.9"
+"55","Spinosaurus_","Spinosaurus_.10"
+"56","Spinosaurus_","Spinosaurus_.11"
+"57","Suchomimus","Suchomimus.1"
+"58","Suchomimus","Suchomimus.2"
+"59","Suchomimus","Suchomimus.3"
+"60","Baryonyx","Baryonyx.1"
+"61","Baryonyx","Baryonyx.2"
+"62","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.08
+* index-name alignment check: OK

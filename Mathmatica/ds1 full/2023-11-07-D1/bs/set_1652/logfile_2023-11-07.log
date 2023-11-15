@@ -1,0 +1,91 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_1652
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_1652/femur_set_1652.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Procavia_capensis","Procavia_capensis.1"
+"2","Dromaius_","Dromaius_.1"
+"3","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"4","Felis_felis","Felis_felis.1"
+"5","Dromaius_","Dromaius_.2"
+"6","Tenrec_ecaudatus","Tenrec_ecaudatus.1"
+"7","Felis_felis","Felis_felis.2"
+"8","Xenicus_giliventris","Xenicus_giliventris.1"
+"9","Myrmecophaga_tridactyla","Myrmecophaga_tridactyla.1"
+"10","Elomeryx_borbonicus_","Elomeryx_borbonicus_.1"
+"11","Tenrec_ecaudatus","Tenrec_ecaudatus.2"
+"12","Felis_felis","Felis_felis.3"
+"13","Tamandua_tetradactyla","Tamandua_tetradactyla.1"
+"14","Apteryx_owenii_","Apteryx_owenii_.1"
+"15","Xenicus_giliventris","Xenicus_giliventris.2"
+"16","Xenicus_giliventris","Xenicus_giliventris.3"
+"17","Lama_guanicoe","Lama_guanicoe.1"
+"18","Tenrec_ecaudatus","Tenrec_ecaudatus.3"
+"19","Ceratotherium_simum","Ceratotherium_simum.1"
+"20","Tenrec_ecaudatus","Tenrec_ecaudatus.4"
+"21","Elomeryx_borbonicus_","Elomeryx_borbonicus_.2"
+"22","Alces_americanus","Alces_americanus.1"
+"23","Spheniscus","Spheniscus.1"
+"24","Paraplacodus","Paraplacodus.1"
+"25","Spheniscus","Spheniscus.2"
+"26","Serpianosaurus","Serpianosaurus.1"
+"27","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.1"
+"28","Paraplacodus","Paraplacodus.2"
+"29","Rhaeticosaurus","Rhaeticosaurus.1"
+"30","Nothosaurus_102","Nothosaurus_102.1"
+"31","Chironectes_minimus","Chironectes_minimus.1"
+"32","Noemys_fodies","Noemys_fodies.1"
+"33","Phocanella_pumila","Phocanella_pumila.1"
+"34","Nothosaurus_102","Nothosaurus_102.2"
+"35","Chapsosaurus_","Chapsosaurus_.1"
+"36","Nothosaurus_102","Nothosaurus_102.3"
+"37","Callophoca_obscura","Callophoca_obscura.1"
+"38","Indohyus","Indohyus.1"
+"39","Ornithorhynchus_anatinus","Ornithorhynchus_anatinus.1"
+"40","Callophoca_obscura","Callophoca_obscura.2"
+"41","Callophoca_obscura","Callophoca_obscura.3"
+"42","Placodontia_indet_1","Placodontia_indet_1.1"
+"43","Remingtonocetus","Remingtonocetus.1"
+"44","Ornithorhynchus_anatinus","Ornithorhynchus_anatinus.2"
+"45","Desmana_moschata","Desmana_moschata.1"
+"46","Desmana_moschata","Desmana_moschata.2"
+"47","Spinosaurus_","Spinosaurus_.1"
+"48","Spinosaurus_","Spinosaurus_.2"
+"49","Spinosaurus_","Spinosaurus_.3"
+"50","Spinosaurus_","Spinosaurus_.4"
+"51","Spinosaurus_","Spinosaurus_.5"
+"52","Spinosaurus_","Spinosaurus_.6"
+"53","Spinosaurus_","Spinosaurus_.7"
+"54","Spinosaurus_","Spinosaurus_.8"
+"55","Spinosaurus_","Spinosaurus_.9"
+"56","Spinosaurus_","Spinosaurus_.10"
+"57","Spinosaurus_","Spinosaurus_.11"
+"58","Suchomimus","Suchomimus.1"
+"59","Suchomimus","Suchomimus.2"
+"60","Suchomimus","Suchomimus.3"
+"61","Baryonyx","Baryonyx.1"
+"62","Baryonyx","Baryonyx.2"
+"63","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.12
+* index-name alignment check: OK

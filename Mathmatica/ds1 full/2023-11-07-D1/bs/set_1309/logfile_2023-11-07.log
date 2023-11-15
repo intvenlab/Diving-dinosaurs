@@ -1,0 +1,80 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_1309
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_1309/femur_set_1309.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Uncia_uncia","Uncia_uncia.1"
+"2","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"3","Bison_bonasus","Bison_bonasus.1"
+"4","Caloenas_nicobarica","Caloenas_nicobarica.1"
+"5","Uncia_uncia","Uncia_uncia.2"
+"6","Uncia_uncia","Uncia_uncia.3"
+"7","Bison_bonasus","Bison_bonasus.2"
+"8","Tenrec_ecaudatus","Tenrec_ecaudatus.1"
+"9","Mustela_nivalis","Mustela_nivalis.1"
+"10","Giraffa_camelopardalis","Giraffa_camelopardalis.1"
+"11","Dicerorhinus_sumatrensis","Dicerorhinus_sumatrensis.1"
+"12","Ceratotherium_simum","Ceratotherium_simum.1"
+"13","Felis_felis","Felis_felis.1"
+"14","Tribonyx_mortieri","Tribonyx_mortieri.1"
+"15","Myrmecophaga_tridactyla","Myrmecophaga_tridactyla.1"
+"16","Microgale_thomasi","Microgale_thomasi.1"
+"17","Bos_taurus","Bos_taurus.1"
+"18","Dama_dama","Dama_dama.1"
+"19","Champsosaurus","Champsosaurus.1"
+"20","Champsosaurus","Champsosaurus.2"
+"21","Alligator","Alligator.1"
+"22","Desmostylus_hesperus","Desmostylus_hesperus.1"
+"23","Champsosaurus","Champsosaurus.3"
+"24","Plesiosaurus","Plesiosaurus.1"
+"25","Maiacetus","Maiacetus.1"
+"26","Champsosaurus","Champsosaurus.4"
+"27","Palaeospheniscus","Palaeospheniscus.1"
+"28","Anarosaurus","Anarosaurus.1"
+"29","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.1"
+"30","Lutra_vulgaris","Lutra_vulgaris.1"
+"31","Castor_fiber","Castor_fiber.1"
+"32","Choeropsis_liberiensis","Choeropsis_liberiensis.1"
+"33","Chapsosaurus_","Chapsosaurus_.1"
+"34","Callophoca_obscura","Callophoca_obscura.1"
+"35","Leptophoca_proxima","Leptophoca_proxima.1"
+"36","Spinosaurus_","Spinosaurus_.1"
+"37","Spinosaurus_","Spinosaurus_.2"
+"38","Spinosaurus_","Spinosaurus_.3"
+"39","Spinosaurus_","Spinosaurus_.4"
+"40","Spinosaurus_","Spinosaurus_.5"
+"41","Spinosaurus_","Spinosaurus_.6"
+"42","Spinosaurus_","Spinosaurus_.7"
+"43","Spinosaurus_","Spinosaurus_.8"
+"44","Spinosaurus_","Spinosaurus_.9"
+"45","Spinosaurus_","Spinosaurus_.10"
+"46","Spinosaurus_","Spinosaurus_.11"
+"47","Suchomimus","Suchomimus.1"
+"48","Suchomimus","Suchomimus.2"
+"49","Suchomimus","Suchomimus.3"
+"50","Baryonyx","Baryonyx.1"
+"51","Baryonyx","Baryonyx.2"
+"52","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.07
+* index-name alignment check: OK

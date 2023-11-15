@@ -1,0 +1,95 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_147
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_147/femur_set_147.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Sphenodon_punctatus","Sphenodon_punctatus.1"
+"2","Sphenodon_punctatus","Sphenodon_punctatus.2"
+"3","Sphenodon_punctatus","Sphenodon_punctatus.3"
+"4","Cephalophus_silvicultor","Cephalophus_silvicultor.1"
+"5","Diplomesodon_pulchellum","Diplomesodon_pulchellum.1"
+"6","Dasyurus_maculatus","Dasyurus_maculatus.1"
+"7","Elomeryx_borbonicus_","Elomeryx_borbonicus_.1"
+"8","Hemiechinus_azurites","Hemiechinus_azurites.1"
+"9","Elomeryx_borbonicus_","Elomeryx_borbonicus_.2"
+"10","Elomeryx_borbonicus_","Elomeryx_borbonicus_.3"
+"11","Euroscaptor_micrura","Euroscaptor_micrura.1"
+"12","Okapia_johnstoni","Okapia_johnstoni.1"
+"13","Elomeryx_borbonicus_","Elomeryx_borbonicus_.4"
+"14","Capreolus_capreolus","Capreolus_capreolus.1"
+"15","Mus_musculus","Mus_musculus.1"
+"16","Okapia_johnstoni","Okapia_johnstoni.2"
+"17","Dasyurus_maculatus","Dasyurus_maculatus.2"
+"18","Sus_scrofa","Sus_scrofa.1"
+"19","Apteryx_australis","Apteryx_australis.1"
+"20","Mustela_nivalis","Mustela_nivalis.1"
+"21","Caloenas_nicobarica","Caloenas_nicobarica.1"
+"22","Myrmecophaga_tridactyla","Myrmecophaga_tridactyla.1"
+"23","Myrmecophaga_tridactyla","Myrmecophaga_tridactyla.2"
+"24","Hexaprotodon_garyam","Hexaprotodon_garyam.1"
+"25","Desmana_moschata","Desmana_moschata.1"
+"26","Hexaprotodon_garyam","Hexaprotodon_garyam.2"
+"27","Indohyus","Indohyus.1"
+"28","Nothosaurus_mirabilis","Nothosaurus_mirabilis.1"
+"29","Phalacrocorax_harrisi","Phalacrocorax_harrisi.1"
+"30","Phalacrocorax_harrisi","Phalacrocorax_harrisi.2"
+"31","Noemys_fodies","Noemys_fodies.1"
+"32","Spheniscus","Spheniscus.1"
+"33","Nothosaurus_mirabilis","Nothosaurus_mirabilis.2"
+"34","Spheniscus","Spheniscus.2"
+"35","Caiman_yacare","Caiman_yacare.1"
+"36","Hexaprotodon_garyam","Hexaprotodon_garyam.3"
+"37","Cricosaurus","Cricosaurus.1"
+"38","Indohyus","Indohyus.2"
+"39","Desmostylus_hesperus","Desmostylus_hesperus.1"
+"40","Indohyus","Indohyus.3"
+"41","Anarosaurus","Anarosaurus.1"
+"42","Ichtyosaurus_","Ichtyosaurus_.1"
+"43","Desmana_moschata","Desmana_moschata.2"
+"44","Dyrosaurid","Dyrosaurid.1"
+"45","Indohyus","Indohyus.4"
+"46","Psephoderma","Psephoderma.1"
+"47","Neusticosaurus","Neusticosaurus.1"
+"48","Spheniscus","Spheniscus.3"
+"49","Small_Eocene_penguin","Small_Eocene_penguin.1"
+"50","Anarosaurus","Anarosaurus.2"
+"51","Spinosaurus_","Spinosaurus_.1"
+"52","Spinosaurus_","Spinosaurus_.2"
+"53","Spinosaurus_","Spinosaurus_.3"
+"54","Spinosaurus_","Spinosaurus_.4"
+"55","Spinosaurus_","Spinosaurus_.5"
+"56","Spinosaurus_","Spinosaurus_.6"
+"57","Spinosaurus_","Spinosaurus_.7"
+"58","Spinosaurus_","Spinosaurus_.8"
+"59","Spinosaurus_","Spinosaurus_.9"
+"60","Spinosaurus_","Spinosaurus_.10"
+"61","Spinosaurus_","Spinosaurus_.11"
+"62","Suchomimus","Suchomimus.1"
+"63","Suchomimus","Suchomimus.2"
+"64","Suchomimus","Suchomimus.3"
+"65","Baryonyx","Baryonyx.1"
+"66","Baryonyx","Baryonyx.2"
+"67","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.08
+* index-name alignment check: OK

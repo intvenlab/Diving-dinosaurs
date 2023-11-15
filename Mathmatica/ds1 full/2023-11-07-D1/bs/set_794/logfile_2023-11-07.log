@@ -1,0 +1,90 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_794
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_794/femur_set_794.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Dasyurus_maculatus","Dasyurus_maculatus.1"
+"2","Megaloceros_sp","Megaloceros_sp.1"
+"3","Dama_dama","Dama_dama.1"
+"4","Alces_americanus","Alces_americanus.1"
+"5","Rhynchocyon_petersi","Rhynchocyon_petersi.1"
+"6","Mammuthus_sp","Mammuthus_sp.1"
+"7","Meles_meles","Meles_meles.1"
+"8","Meles_meles","Meles_meles.2"
+"9","Mustela_nivalis","Mustela_nivalis.1"
+"10","Rynochetus_jubatus","Rynochetus_jubatus.1"
+"11","Dasyurus_maculatus","Dasyurus_maculatus.2"
+"12","Microgale_thomasi","Microgale_thomasi.1"
+"13","Mammuthus_sp","Mammuthus_sp.2"
+"14","Sphenodon_punctatus","Sphenodon_punctatus.1"
+"15","Atlantisia_rogersi","Atlantisia_rogersi.1"
+"16","Mustela_nivalis","Mustela_nivalis.2"
+"17","Rangifer_tarandus","Rangifer_tarandus.1"
+"18","Rynochetus_jubatus","Rynochetus_jubatus.2"
+"19","Cephalophus_silvicultor","Cephalophus_silvicultor.1"
+"20","Diplomesodon_pulchellum","Diplomesodon_pulchellum.1"
+"21","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"22","Elomeryx_borbonicus_","Elomeryx_borbonicus_.1"
+"23","Vulpes_vulpes","Vulpes_vulpes.1"
+"24","Diplomesodon_pulchellum","Diplomesodon_pulchellum.2"
+"25","Hydromys_chrysogaster","Hydromys_chrysogaster.1"
+"26","Tapirus_terrestris","Tapirus_terrestris.1"
+"27","Nothosaurus_mirabilis","Nothosaurus_mirabilis.1"
+"28","Callophoca_obscura","Callophoca_obscura.1"
+"29","Hippopotamus_amphibius","Hippopotamus_amphibius.1"
+"30","Hydromys_chrysogaster","Hydromys_chrysogaster.2"
+"31","Hexaprotodon_garyam","Hexaprotodon_garyam.1"
+"32","Hexaprotodon_garyam","Hexaprotodon_garyam.2"
+"33","Ichtyosaurus_","Ichtyosaurus_.1"
+"34","Rodhocetus","Rodhocetus.1"
+"35","Protochampsidae","Protochampsidae.1"
+"36","Rodhocetus","Rodhocetus.2"
+"37","Hydromys_chrysogaster","Hydromys_chrysogaster.3"
+"38","Plesiosaurus","Plesiosaurus.1"
+"39","Neusticosaurus","Neusticosaurus.1"
+"40","Noemys_fodies","Noemys_fodies.1"
+"41","Choeropsis_liberiensis","Choeropsis_liberiensis.1"
+"42","Placondontia_indet","Placondontia_indet.1"
+"43","Small_Eocene_penguin","Small_Eocene_penguin.1"
+"44","Nothosaurus_568","Nothosaurus_568.1"
+"45","Castor_fiber","Castor_fiber.1"
+"46","Spinosaurus_","Spinosaurus_.1"
+"47","Spinosaurus_","Spinosaurus_.2"
+"48","Spinosaurus_","Spinosaurus_.3"
+"49","Spinosaurus_","Spinosaurus_.4"
+"50","Spinosaurus_","Spinosaurus_.5"
+"51","Spinosaurus_","Spinosaurus_.6"
+"52","Spinosaurus_","Spinosaurus_.7"
+"53","Spinosaurus_","Spinosaurus_.8"
+"54","Spinosaurus_","Spinosaurus_.9"
+"55","Spinosaurus_","Spinosaurus_.10"
+"56","Spinosaurus_","Spinosaurus_.11"
+"57","Suchomimus","Suchomimus.1"
+"58","Suchomimus","Suchomimus.2"
+"59","Suchomimus","Suchomimus.3"
+"60","Baryonyx","Baryonyx.1"
+"61","Baryonyx","Baryonyx.2"
+"62","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.07
+* index-name alignment check: OK

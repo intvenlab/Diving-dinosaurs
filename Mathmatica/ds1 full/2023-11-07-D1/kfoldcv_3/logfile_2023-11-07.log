@@ -1,0 +1,87 @@
+Logfile for a session of program: kfoldcv_binary.r
+-----------------------------------------------------
+
+WARNING: When comparing estimated labels to true labels, be aware of how the data was treated
+         (the label column, any filters applied, etc.)
+
+INPUT:
+baseDir: C:/dino_nature/output/2023-11-07-D1\kfoldcv_3
+Kcrossvalidation: 10
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+dataFile: C:/dino_nature/data/D1_femur.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Spinosaurus_","Spinosaurus_.1"
+"2","Spinosaurus_","Spinosaurus_.2"
+"3","Spinosaurus_","Spinosaurus_.3"
+"4","Spinosaurus_","Spinosaurus_.4"
+"5","Spinosaurus_","Spinosaurus_.5"
+"6","Spinosaurus_","Spinosaurus_.6"
+"7","Spinosaurus_","Spinosaurus_.7"
+"8","Spinosaurus_","Spinosaurus_.8"
+"9","Spinosaurus_","Spinosaurus_.9"
+"10","Spinosaurus_","Spinosaurus_.10"
+"11","Spinosaurus_","Spinosaurus_.11"
+"12","Suchomimus","Suchomimus.1"
+"13","Suchomimus","Suchomimus.2"
+"14","Suchomimus","Suchomimus.3"
+"15","Baryonyx","Baryonyx.1"
+"16","Baryonyx","Baryonyx.2"
+"17","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+******* Working on K-fold CV set:1********
+******* Working on K-fold CV set:2********
+******* Working on K-fold CV set:3********
+******* Working on K-fold CV set:4********
+******* Working on K-fold CV set:5********
+******* Working on K-fold CV set:6********
+******* Working on K-fold CV set:7********
+******* Working on K-fold CV set:8********
+******* Working on K-fold CV set:9********
+******* Working on K-fold CV set:10********
+* lambda (calculated from a random tree) = : 0.08
+* index-name alignment check: OK
+* lambda (calculated from a random tree) = : 0.08
+* index-name alignment check: OK
+* lambda (calculated from a random tree) = : 0.08
+* index-name alignment check: OK
+* lambda (calculated from a random tree) = : 0.07
+* index-name alignment check: OK
+* lambda (calculated from a random tree) = : 0.08
+
+* index-name alignment check: OK
+* index-name alignment check: OK
+* lambda (calculated from a random tree) = : 0.09
+* index-name alignment check: OK
+* lambda (calculated from a random tree) = : 0.08
+* lambda (calculated from a random tree) = : 0.08
+* index-name alignment check: OK
+* index-name alignment check: OK
+* lambda (calculated from a random tree) = : 0.07
+* index-name alignment check: OK
+
+
+
+
+
+
+
+
+
+

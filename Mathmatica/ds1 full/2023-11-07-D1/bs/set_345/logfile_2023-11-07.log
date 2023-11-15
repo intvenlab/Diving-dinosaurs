@@ -1,0 +1,90 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_345
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_345/femur_set_345.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Vulpes_vulpes","Vulpes_vulpes.1"
+"2","Atlantisia_rogersi","Atlantisia_rogersi.1"
+"3","Strigiops_habroptilus","Strigiops_habroptilus.1"
+"4","Caloenas_nicobarica","Caloenas_nicobarica.1"
+"5","Mammuthus_sp","Mammuthus_sp.1"
+"6","Caloenas_nicobarica","Caloenas_nicobarica.2"
+"7","Vulpes_vulpes","Vulpes_vulpes.2"
+"8","Caloenas_nicobarica","Caloenas_nicobarica.3"
+"9","Megaloceros_sp","Megaloceros_sp.1"
+"10","Syncerus_caffer","Syncerus_caffer.1"
+"11","Megaloceros_sp","Megaloceros_sp.2"
+"12","Loxodonta_africana","Loxodonta_africana.1"
+"13","Rhinoceros_sondaicus","Rhinoceros_sondaicus.1"
+"14","Mammuthus_sp","Mammuthus_sp.2"
+"15","Rhynchocyon_petersi","Rhynchocyon_petersi.1"
+"16","Syncerus_caffer","Syncerus_caffer.2"
+"17","Elephas_maximus","Elephas_maximus.1"
+"18","Porphyrio_hochstetteri","Porphyrio_hochstetteri.1"
+"19","Ceratotherium_simum","Ceratotherium_simum.1"
+"20","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.1"
+"21","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.2"
+"22","Ichtyosaur_sp","Ichtyosaur_sp.1"
+"23","Nothosaurus_150","Nothosaurus_150.1"
+"24","Ornithorhynchus_anatinus","Ornithorhynchus_anatinus.1"
+"25","Spheniscus","Spheniscus.1"
+"26","Callophoca_obscura","Callophoca_obscura.1"
+"27","Chapsosaurus_","Chapsosaurus_.1"
+"28","Nothosaurus_150","Nothosaurus_150.2"
+"29","Nothosaurus_giganteus","Nothosaurus_giganteus.1"
+"30","Hexaprotodon_garyam","Hexaprotodon_garyam.1"
+"31","Desmana_moschata","Desmana_moschata.1"
+"32","Ichtyosaurus_","Ichtyosaurus_.1"
+"33","large_eocene_stem_penguin","large_eocene_stem_penguin.1"
+"34","Callophoca_obscura","Callophoca_obscura.2"
+"35","Alligator","Alligator.1"
+"36","Desmana_moschata","Desmana_moschata.2"
+"37","Spheniscus","Spheniscus.2"
+"38","Ichtyosaur_sp","Ichtyosaur_sp.2"
+"39","Ornithorhynchus_anatinus","Ornithorhynchus_anatinus.2"
+"40","Small_Eocene_penguin","Small_Eocene_penguin.1"
+"41","Spheniscus","Spheniscus.3"
+"42","Serpianosaurus","Serpianosaurus.1"
+"43","Callophoca_obscura","Callophoca_obscura.3"
+"44","Nothosaurus_giganteus","Nothosaurus_giganteus.2"
+"45","Nothosaurus_150","Nothosaurus_150.3"
+"46","Spinosaurus_","Spinosaurus_.1"
+"47","Spinosaurus_","Spinosaurus_.2"
+"48","Spinosaurus_","Spinosaurus_.3"
+"49","Spinosaurus_","Spinosaurus_.4"
+"50","Spinosaurus_","Spinosaurus_.5"
+"51","Spinosaurus_","Spinosaurus_.6"
+"52","Spinosaurus_","Spinosaurus_.7"
+"53","Spinosaurus_","Spinosaurus_.8"
+"54","Spinosaurus_","Spinosaurus_.9"
+"55","Spinosaurus_","Spinosaurus_.10"
+"56","Spinosaurus_","Spinosaurus_.11"
+"57","Suchomimus","Suchomimus.1"
+"58","Suchomimus","Suchomimus.2"
+"59","Suchomimus","Suchomimus.3"
+"60","Baryonyx","Baryonyx.1"
+"61","Baryonyx","Baryonyx.2"
+"62","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.11
+* index-name alignment check: OK
