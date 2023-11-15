@@ -1,8 +1,0 @@
-Logfile for a session of program: bootstrap_sets_generator.r
------------------------------------------------------
-INPUT:
-baseDir: C:/dino_nature/output/2023-11-07-D1\bs
-boneType: femur
-
-Bootstrap data sets have been generated from: C:/dino_nature/data/D1_femur.csv
-Applied filters (before set generation) : FALSE
