@@ -1,0 +1,92 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_360
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_360/femur_set_360.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Mammuthus_sp","Mammuthus_sp.1"
+"2","Mammuthus_sp","Mammuthus_sp.2"
+"3","Procavia_capensis","Procavia_capensis.1"
+"4","Elomeryx_borbonicus_","Elomeryx_borbonicus_.1"
+"5","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"6","Ceratotherium_simum","Ceratotherium_simum.1"
+"7","Nyctereutes_procyonoides","Nyctereutes_procyonoides.2"
+"8","Mammuthus_sp","Mammuthus_sp.3"
+"9","Ceratotherium_simum","Ceratotherium_simum.2"
+"10","Cephalophus_silvicultor","Cephalophus_silvicultor.1"
+"11","Felis_felis","Felis_felis.1"
+"12","Ceratotherium_simum","Ceratotherium_simum.3"
+"13","Vulpes_vulpes","Vulpes_vulpes.1"
+"14","Rynochetus_jubatus","Rynochetus_jubatus.1"
+"15","Megaloceros_sp","Megaloceros_sp.1"
+"16","Tamandua_tetradactyla","Tamandua_tetradactyla.1"
+"17","Nyctereutes_procyonoides","Nyctereutes_procyonoides.3"
+"18","Tribonyx_mortieri","Tribonyx_mortieri.1"
+"19","Myrmecophaga_tridactyla","Myrmecophaga_tridactyla.1"
+"20","Brachyodus_onoideum","Brachyodus_onoideum.1"
+"21","Cephalophus_silvicultor","Cephalophus_silvicultor.2"
+"22","Procavia_capensis","Procavia_capensis.2"
+"23","Ornithorhynchus_anatinus","Ornithorhynchus_anatinus.1"
+"24","Aptenodytes______","Aptenodytes______.1"
+"25","Hydromys_chrysogaster","Hydromys_chrysogaster.1"
+"26","Ichtyosaur_sp","Ichtyosaur_sp.1"
+"27","Hydromys_chrysogaster","Hydromys_chrysogaster.2"
+"28","Neusticosaurus","Neusticosaurus.1"
+"29","Palaeospheniscus","Palaeospheniscus.1"
+"30","Chironectes_minimus","Chironectes_minimus.1"
+"31","Hippopotamus_amphibius","Hippopotamus_amphibius.1"
+"32","Dyrosaurid","Dyrosaurid.1"
+"33","Hippopotamus_amphibius","Hippopotamus_amphibius.2"
+"34","Hippopotamus_amphibius","Hippopotamus_amphibius.3"
+"35","Leptophoca_proxima","Leptophoca_proxima.1"
+"36","Maiacetus","Maiacetus.1"
+"37","Leptophoca_proxima","Leptophoca_proxima.2"
+"38","Nothosaurus_102","Nothosaurus_102.1"
+"39","Ornithorhynchus_anatinus","Ornithorhynchus_anatinus.2"
+"40","Chironectes_minimus","Chironectes_minimus.2"
+"41","Protochampsidae","Protochampsidae.1"
+"42","Nothosaurus_150","Nothosaurus_150.1"
+"43","Callophoca_obscura","Callophoca_obscura.1"
+"44","Ichtyosaurus_","Ichtyosaurus_.1"
+"45","Plesiosaurus","Plesiosaurus.1"
+"46","Protochampsidae","Protochampsidae.2"
+"47","Hippopotamus_amphibius","Hippopotamus_amphibius.4"
+"48","Spinosaurus_","Spinosaurus_.1"
+"49","Spinosaurus_","Spinosaurus_.2"
+"50","Spinosaurus_","Spinosaurus_.3"
+"51","Spinosaurus_","Spinosaurus_.4"
+"52","Spinosaurus_","Spinosaurus_.5"
+"53","Spinosaurus_","Spinosaurus_.6"
+"54","Spinosaurus_","Spinosaurus_.7"
+"55","Spinosaurus_","Spinosaurus_.8"
+"56","Spinosaurus_","Spinosaurus_.9"
+"57","Spinosaurus_","Spinosaurus_.10"
+"58","Spinosaurus_","Spinosaurus_.11"
+"59","Suchomimus","Suchomimus.1"
+"60","Suchomimus","Suchomimus.2"
+"61","Suchomimus","Suchomimus.3"
+"62","Baryonyx","Baryonyx.1"
+"63","Baryonyx","Baryonyx.2"
+"64","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.15
+* index-name alignment check: OK

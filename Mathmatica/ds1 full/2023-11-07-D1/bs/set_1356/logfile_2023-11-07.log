@@ -1,0 +1,81 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_1356
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_1356/femur_set_1356.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Procyon_lotor","Procyon_lotor.1"
+"2","Procyon_lotor","Procyon_lotor.2"
+"3","Procyon_lotor","Procyon_lotor.3"
+"4","Rattus_rattus","Rattus_rattus.1"
+"5","Strigiops_habroptilus","Strigiops_habroptilus.1"
+"6","Dromaius_","Dromaius_.1"
+"7","Caloenas_nicobarica","Caloenas_nicobarica.1"
+"8","Rattus_rattus","Rattus_rattus.2"
+"9","Strigiops_habroptilus","Strigiops_habroptilus.2"
+"10","Mustela_nivalis","Mustela_nivalis.1"
+"11","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"12","Pogona_viceps","Pogona_viceps.1"
+"13","Mus_musculus","Mus_musculus.1"
+"14","Felis_felis","Felis_felis.1"
+"15","Alces_americanus","Alces_americanus.1"
+"16","Mustela_nivalis","Mustela_nivalis.2"
+"17","Sus_scrofa","Sus_scrofa.1"
+"18","Sus_scrofa","Sus_scrofa.2"
+"19","Neusticosaurus","Neusticosaurus.1"
+"20","Nothosaurus_giganteus","Nothosaurus_giganteus.1"
+"21","Noemys_fodies","Noemys_fodies.1"
+"22","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.1"
+"23","Ichtyosaurus_","Ichtyosaurus_.1"
+"24","Nothosaurus_150","Nothosaurus_150.1"
+"25","Nanophoca_vitulinoides","Nanophoca_vitulinoides.1"
+"26","Plesiosaurus","Plesiosaurus.1"
+"27","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.2"
+"28","Chapsosaurus_","Chapsosaurus_.1"
+"29","Rodhocetus","Rodhocetus.1"
+"30","Cricosaurus","Cricosaurus.1"
+"31","Nothosaurus_568","Nothosaurus_568.1"
+"32","Anarosaurus","Anarosaurus.1"
+"33","Anarosaurus","Anarosaurus.2"
+"34","Protochampsidae","Protochampsidae.1"
+"35","Tapirus_terrestris","Tapirus_terrestris.1"
+"36","Chironectes_minimus","Chironectes_minimus.1"
+"37","Spinosaurus_","Spinosaurus_.1"
+"38","Spinosaurus_","Spinosaurus_.2"
+"39","Spinosaurus_","Spinosaurus_.3"
+"40","Spinosaurus_","Spinosaurus_.4"
+"41","Spinosaurus_","Spinosaurus_.5"
+"42","Spinosaurus_","Spinosaurus_.6"
+"43","Spinosaurus_","Spinosaurus_.7"
+"44","Spinosaurus_","Spinosaurus_.8"
+"45","Spinosaurus_","Spinosaurus_.9"
+"46","Spinosaurus_","Spinosaurus_.10"
+"47","Spinosaurus_","Spinosaurus_.11"
+"48","Suchomimus","Suchomimus.1"
+"49","Suchomimus","Suchomimus.2"
+"50","Suchomimus","Suchomimus.3"
+"51","Baryonyx","Baryonyx.1"
+"52","Baryonyx","Baryonyx.2"
+"53","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.08
+* index-name alignment check: OK

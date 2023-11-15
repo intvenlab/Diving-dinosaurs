@@ -1,0 +1,82 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_1867
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_1867/femur_set_1867.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Rupicapra_rupicapra","Rupicapra_rupicapra.1"
+"2","Raphus","Raphus.1"
+"3","Sus_scrofa","Sus_scrofa.1"
+"4","Brachyodus_onoideum","Brachyodus_onoideum.1"
+"5","Dromaius_","Dromaius_.1"
+"6","Rhinoceros_sondaicus","Rhinoceros_sondaicus.1"
+"7","Brachyodus_onoideum","Brachyodus_onoideum.2"
+"8","Raphus","Raphus.2"
+"9","Taxidea_taxus","Taxidea_taxus.1"
+"10","Mus_musculus","Mus_musculus.1"
+"11","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"12","Lacerta_viridis","Lacerta_viridis.1"
+"13","Strigiops_habroptilus","Strigiops_habroptilus.1"
+"14","Xenicus_giliventris","Xenicus_giliventris.1"
+"15","Myrmecophaga_tridactyla","Myrmecophaga_tridactyla.1"
+"16","Nyctereutes_procyonoides","Nyctereutes_procyonoides.2"
+"17","Sus_scrofa","Sus_scrofa.2"
+"18","Anarosaurus","Anarosaurus.1"
+"19","Lutra_vulgaris","Lutra_vulgaris.1"
+"20","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.1"
+"21","Anarosaurus","Anarosaurus.2"
+"22","Small_Eocene_penguin","Small_Eocene_penguin.1"
+"23","Micropotamogale_euwenzorii","Micropotamogale_euwenzorii.2"
+"24","Simosaurus","Simosaurus.1"
+"25","Rhaeticosaurus","Rhaeticosaurus.1"
+"26","Simosaurus_1","Simosaurus_1.1"
+"27","Protochampsidae","Protochampsidae.1"
+"28","Anarosaurus","Anarosaurus.3"
+"29","Anarosaurus","Anarosaurus.4"
+"30","Dyrosaurid","Dyrosaurid.1"
+"31","Serpianosaurus","Serpianosaurus.1"
+"32","Hesperornis","Hesperornis.1"
+"33","Plesiosaurus","Plesiosaurus.1"
+"34","Caiman_yacare","Caiman_yacare.1"
+"35","Rhaeticosaurus","Rhaeticosaurus.2"
+"36","Serpianosaurus","Serpianosaurus.2"
+"37","Aptenodytes______","Aptenodytes______.1"
+"38","Spinosaurus_","Spinosaurus_.1"
+"39","Spinosaurus_","Spinosaurus_.2"
+"40","Spinosaurus_","Spinosaurus_.3"
+"41","Spinosaurus_","Spinosaurus_.4"
+"42","Spinosaurus_","Spinosaurus_.5"
+"43","Spinosaurus_","Spinosaurus_.6"
+"44","Spinosaurus_","Spinosaurus_.7"
+"45","Spinosaurus_","Spinosaurus_.8"
+"46","Spinosaurus_","Spinosaurus_.9"
+"47","Spinosaurus_","Spinosaurus_.10"
+"48","Spinosaurus_","Spinosaurus_.11"
+"49","Suchomimus","Suchomimus.1"
+"50","Suchomimus","Suchomimus.2"
+"51","Suchomimus","Suchomimus.3"
+"52","Baryonyx","Baryonyx.1"
+"53","Baryonyx","Baryonyx.2"
+"54","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.11
+* index-name alignment check: OK

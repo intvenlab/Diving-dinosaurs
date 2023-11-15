@@ -1,0 +1,222 @@
+Platecarpus_sp., {{100, 0.89}}
+Diplodocus_sp, {{100, 0.95}}
+Baryonyx.1, {{100, 0.92}}
+Spinosaurus.3, {{98, 0.92}, {2, 0.93}}
+Spinosaurus.2, {{100, 0.98}}
+Spinosaurus.1, {{97, 0.91}, {3, 0.9}}
+Baryonyx, {{100, 0.98}}
+Spinosaurus, {{100, 0.98}}
+Apteryx_owenii, {{30, 0.59}, {70, 0.6}}
+Otis_tarda, {{100, 0.02}}
+Tribonyx_ventralis, {{100, 0.72}}
+Turdus_olivater, {{100, 0.78}}
+Larus_argentatus, {{100, 0.05}}
+Ornithorhynchus_anatinus, {{100, 0.92}}
+Dasyurus_maculatus, {{100, 0.53}}
+Rhynchocyon_petersi, {{100, 0.35}}
+Noemys_fodies, {{89, 0.72}, {11, 0.71}}
+Rousettus_aegyptiacus, {{20, 0.06}, {80, 0.05}}
+Taxidea_taxus, {{100, 0.38}}
+Rhinoceros_sondaicus, {{5, 0.91}, {95, 0.9}}
+Monodon_monoceros, {{33, 0.63}, {67, 0.62}}
+Delphinapterus_leucas, {{100, 0.9}}
+Bison_bonasus, {{100, 0.05}}
+Metriorhynchid_indet., {{65, 0.3}, {35, 0.29}}
+Miragaia_longicollum, {{84, 0.82}, {16, 0.83}}
+Baryonyx.1, {{26, 0.9}, {74, 0.89}}
+Spinosaurus.3, {{83, 0.9}, {17, 0.89}}
+Spinosaurus.2, {{100, 0.98}}
+Spinosaurus.1, {{51, 0.88}, {49, 0.89}}
+Baryonyx, {{100, 0.98}}
+Spinosaurus, {{37, 0.98}, {63, 0.97}}
+Casuarius_casuarius, {{5, 0.22}, {95, 0.23}}
+Anser_fabalis, {{6, 0.28}, {94, 0.29}}
+Anas_platyrhynchos, {{100, 0.0}}
+Anas_erythrorhyncha, {{99, 0.45}, {1, 0.44}}
+Sarothrura_rufa, {{88, 0.52}, {12, 0.51}}
+Pelecanus_sp., {{100, 0.0}}
+Monodelphis_domestica, {{100, 0.27}}
+Paleoparadoxia_sp, {{100, 0.98}}
+Apodemus_sp., {{98, 0.22}, {2, 0.21}}
+Pipistrellus_pipistrellus, {{100, 0.0}}
+Martes_martes, {{4, 0.2}, {96, 0.19}}
+Tapirus_terrestris, {{21, 0.64}, {79, 0.65}}
+Choeropsis_liberiensis, {{87, 0.53}, {13, 0.54}}
+Lissodelphis_borealis, {{46, 0.53}, {54, 0.52}}
+Mollesaurus, {{40, 0.64}, {60, 0.65}}
+Tylosaurus_sp., {{91, 0.76}, {9, 0.77}}
+Crocodylus_sp., {{100, 0.95}}
+Alamosaurus, {{15, 0.07}, {85, 0.06}}
+Baryonyx.1, {{16, 0.88}, {84, 0.89}}
+Spinosaurus.3, {{4, 0.88}, {96, 0.89}}
+Spinosaurus.2, {{100, 0.97}}
+Spinosaurus.1, {{82, 0.88}, {18, 0.87}}
+Baryonyx, {{6, 0.98}, {94, 0.97}}
+Spinosaurus, {{100, 0.97}}
+Struthio_camelus, {{14, 0.22}, {86, 0.23}}
+Crypturellus_tataupa, {{61, 0.34}, {39, 0.35}}
+Podica_senegalensis, {{88, 0.67}, {12, 0.66}}
+Atlantisia_rogersi, {{63, 0.53}, {37, 0.52}}
+Porphyrio_poliocephalus, {{59, 0.26}, {41, 0.27}}
+Dendrocopos_major, {{26, 0.34}, {74, 0.35}}
+Strigiops_habroptilus, {{100, 0.26}}
+Pelagodroma_marina, {{100, 0.41}}
+Tachyglossus_aculeatus_setosus, {{98, 0.22}, {2, 0.23}}
+Ursus_spelaeus, {{100, 0.82}}
+Orcinus_orca, {{90, 0.91}, {10, 0.9}}
+Rangifer_tarandus, {{100, 0.52}}
+Capra_aegagrus, {{100, 0.62}}
+Crocodylus_niloticus, {{90, 0.95}, {10, 0.94}}
+Spinophorosaurus_nigerensis, {{51, 0.43}, {28, 0.42}, {21, 0.44}}
+Baryonyx.1, {{54, 0.88}, {46, 0.89}}
+Spinosaurus.3, {{10, 0.88}, {90, 0.89}}
+Spinosaurus.2, {{100, 0.97}}
+Spinosaurus.1, {{37, 0.88}, {63, 0.87}}
+Baryonyx, {{100, 0.97}}
+Spinosaurus, {{100, 0.97}}
+Chaunia_chavaria, {{100, 0.28}}
+Goura_cristata, {{100, 0.07}}
+Nestor_notabilis, {{10, 0.32}, {90, 0.31}}
+Corvus_corone, {{100, 0.04}}
+Buteo_buteo, {{100, 0.0}}
+Eudyptes_chrysocome, {{100, 0.88}}
+Zaglossus_bruijni, {{100, 0.07}}
+Orycteropus_afer, {{23, 0.12}, {77, 0.11}}
+Procavia_capensis, {{50, 0.2}, {50, 0.19}}
+Rattus_rattus, {{39, 0.47}, {61, 0.46}}
+Phoca_vitulina, {{100, 0.02}}
+Martes_foina, {{64, 0.28}, {36, 0.27}}
+Enhydra_lutris, {{100, 0.91}}
+Hippopotamus_amphibius, {{7, 0.78}, {93, 0.79}}
+Baryonyx.1, {{40, 0.86}, {60, 0.87}}
+Spinosaurus.3, {{18, 0.86}, {82, 0.87}}
+Spinosaurus.2, {{100, 0.96}}
+Spinosaurus.1, {{35, 0.85}, {65, 0.86}}
+Baryonyx, {{2, 0.96}, {98, 0.97}}
+Spinosaurus, {{100, 0.96}}
+Tachyeres_ciconia, {{100, 0.85}}
+Melanitta_nigra, {{77, 0.37}, {23, 0.36}}
+Aptenodytes_patagonicus, {{63, 0.68}, {37, 0.69}}
+Morus_bassanus, {{100, 0.03}}
+Desmostylus_hesperus, {{80, 0.24}, {20, 0.23}}
+Dasyprocta__punctata, {{100, 0.12}}
+Myoprocta_pratti, {{100, 0.11}}
+Myocastor_coypus, {{100, 0.3}}
+Castor_fiber, {{100, 0.88}}
+Erinaceus_europaeus, {{100, 0.22}}
+Crocidura_russula, {{1, 0.3}, {99, 0.31}}
+Canis_lupus, {{96, 0.2}, {4, 0.21}}
+Mustela_nivalis, {{37, 0.47}, {63, 0.48}}
+Rodhocetus, {{27, 0.94}, {73, 0.93}}
+Cervus_elaphus_canadensis, {{24, 0.07}, {76, 0.08}}
+Hemitragus_jayakari, {{65, 0.2}, {35, 0.21}}
+Neusticosaurus, {{100, 0.99}}
+Clidastes_sp., {{11, 0.78}, {89, 0.77}}
+Baryonyx.1, {{100, 0.9}}
+Spinosaurus.3, {{46, 0.91}, {54, 0.9}}
+Spinosaurus.2, {{100, 0.97}}
+Spinosaurus.1, {{30, 0.88}, {70, 0.89}}
+Baryonyx, {{100, 0.97}}
+Spinosaurus, {{3, 0.96}, {97, 0.97}}
+Anseranas_semipalmata, {{100, 0.56}}
+Caloenas_nicobarica, {{100, 0.41}}
+Psophia_crepitans, {{100, 0.23}}
+Porzana_carolina, {{90, 0.15}, {10, 0.16}}
+Phaeton_aethereus, {{100, 0.39}}
+Ardea_cinerea, {{100, 0.01}}
+Mammuthus_primigenius, {{82, 0.37}, {18, 0.36}}
+Gorilla_gorilla, {{15, 0.12}, {85, 0.11}}
+Lepus_europaeus, {{100, 0.4}}
+Sciurus_vulgaris, {{100, 0.23}}
+Nanophoca_vitulinoides, {{100, 0.96}}
+Neovison_vison, {{42, 0.37}, {58, 0.36}}
+Rhinocerus_unicornis, {{100, 0.74}}
+Bison_bison, {{1, 0.37}, {99, 0.38}}
+Apatosaurus_sp, {{62, 0.91}, {38, 0.9}}
+Baryonyx.1, {{96, 0.92}, {4, 0.93}}
+Spinosaurus.3, {{31, 0.92}, {69, 0.93}}
+Spinosaurus.2, {{100, 0.98}}
+Spinosaurus.1, {{2, 0.92}, {98, 0.91}}
+Baryonyx, {{100, 0.98}}
+Spinosaurus, {{100, 0.98}}
+Lourinhanosaurus, {{44, 0.18}, {56, 0.17}}
+Cygnus_olor, {{100, 0.59}}
+Didelphis_sp., {{100, 0.06}}
+Vombatus_ursinus, {{100, 0.84}}
+Choloepus_didactylus, {{100, 0.13}}
+Tenrec_ecaudatus, {{100, 0.39}}
+Cercopithecus_mona, {{92, 0.06}, {8, 0.05}}
+Hydromys_chrysogaster, {{100, 0.8}}
+Galemys_pyrenaicus, {{100, 0.06}}
+Desmana_moschata, {{100, 0.87}}
+Euroscaptor_micrura, {{99, 0.33}, {1, 0.32}}
+Genetta_genetta, {{100, 0.2}}
+Sus_scrofa, {{3, 0.1}, {97, 0.09}}
+Basilosaurus, {{100, 0.98}}
+Balaenoptera_brydei, {{7, 0.28}, {93, 0.27}}
+Dallasaurus_turneri, {{27, 0.42}, {73, 0.41}}
+Saltriovenator, {{79, 0.5}, {3, 0.51}, {18, 0.49}}
+Baryonyx.1, {{100, 0.9}}
+Spinosaurus.3, {{40, 0.91}, {60, 0.9}}
+Spinosaurus.2, {{94, 0.98}, {6, 0.97}}
+Spinosaurus.1, {{2, 0.88}, {98, 0.89}}
+Baryonyx, {{100, 0.98}}
+Spinosaurus, {{100, 0.97}}
+Charcarodontosaurid, {{100, 0.82}}
+Dacelo_novaeguineae, {{100, 0.09}}
+Xenicus_longipes, {{100, 0.5}}
+Fulmarus_glacialis, {{100, 0.06}}
+Elephas_maximus, {{100, 0.06}}
+Ashoroa_laticosta, {{100, 0.94}}
+Galagoides_demidovii, {{100, 0.06}}
+Hemiechinus_azurites, {{48, 0.18}, {52, 0.17}}
+Diplomesodon_pulchellum, {{8, 0.45}, {92, 0.44}}
+Pteropus_giganteus, {{100, 0.0}}
+Eidolon_helvum, {{100, 0.03}}
+Callophoca_obscura, {{100, 0.56}}
+Camelus_bactrianus, {{1, 0.3}, {99, 0.29}}
+Giraffa_camelopardalis, {{33, 0.12}, {67, 0.13}}
+Serpianosaurus, {{100, 1.0}}
+Baryonyx.1, {{100, 0.89}}
+Spinosaurus.3, {{10, 0.9}, {90, 0.89}}
+Spinosaurus.2, {{100, 0.97}}
+Spinosaurus.1, {{86, 0.88}, {14, 0.87}}
+Baryonyx, {{100, 0.97}}
+Spinosaurus, {{89, 0.96}, {11, 0.97}}
+Anas_discors, {{100, 0.21}}
+Phaenicopterus_roseus, {{49, 0.53}, {51, 0.52}}
+Spheniscus_humboldti, {{100, 0.89}}
+Perameles_nasuta, {{48, 0.37}, {52, 0.38}}
+Macropus_rufus, {{41, 0.56}, {59, 0.57}}
+Dugong_dugon, {{100, 0.96}}
+Trichechus_manatus, {{100, 0.98}}
+Behemotops_katsuiei, {{100, 0.89}}
+Arvicola_amphibius, {{98, 0.18}, {2, 0.17}}
+Panthera_leo_persica, {{40, 0.12}, {60, 0.11}}
+Vulpes_vulpes, {{100, 0.12}}
+Tapirus_indicus, {{46, 0.22}, {54, 0.23}}
+Ceratotherium_simum, {{12, 0.47}, {88, 0.46}}
+Aepyceros_melampus, {{27, 0.38}, {73, 0.39}}
+Ovis_aries, {{91, 0.26}, {9, 0.27}}
+Nothosaurus_sp., {{100, 1.0}}
+Ceresiosaurus, {{100, 0.99}}
+Carentonosaurus_mineaui, {{99, 0.95}, {1, 0.96}}
+Brachiosaurus_sp, {{57, 0.95}, {43, 0.94}}
+Plateosaurus, {{77, 0.04}, {23, 0.03}}
+Baryonyx.1, {{93, 0.9}, {7, 0.89}}
+Spinosaurus.3, {{100, 0.9}}
+Spinosaurus.2, {{100, 0.97}}
+Spinosaurus.1, {{95, 0.88}, {5, 0.89}}
+Baryonyx, {{100, 0.97}}
+Spinosaurus, {{100, 0.96}}
+Aramus_guarana, {{100, 0.45}}
+Glareola_pratincula, {{99, 0.53}, {1, 0.54}}
+Phalacrocorax_harris, {{100, 0.79}}
+Microgale_thomasi, {{100, 0.3}}
+Felis_silvestris, {{20, 0.28}, {80, 0.29}}
+Tremarctos_ornatus, {{100, 0.65}}
+Ursus_maritimus, {{100, 0.18}}
+Lutra_vulgaris, {{15, 0.84}, {85, 0.83}}
+Equus_caballus, {{13, 0.47}, {87, 0.48}}
+Dorudon, {{100, 0.95}}
+Capreolus_capreolus, {{100, 0.06}}

@@ -1,0 +1,87 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_1555
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_1555/femur_set_1555.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Raphus","Raphus.1"
+"2","Raphus","Raphus.2"
+"3","Rattus_rattus","Rattus_rattus.1"
+"4","Rupicapra_rupicapra","Rupicapra_rupicapra.1"
+"5","Raphus","Raphus.3"
+"6","Giraffa_camelopardalis","Giraffa_camelopardalis.1"
+"7","Cephalophus_silvicultor","Cephalophus_silvicultor.1"
+"8","Microgale_thomasi","Microgale_thomasi.1"
+"9","Myrmecophaga_tridactyla","Myrmecophaga_tridactyla.1"
+"10","Apteryx_owenii_","Apteryx_owenii_.1"
+"11","Hemiechinus_azurites","Hemiechinus_azurites.1"
+"12","Raphus","Raphus.4"
+"13","Xenicus_giliventris","Xenicus_giliventris.1"
+"14","Vulpes_vulpes","Vulpes_vulpes.1"
+"15","Cephalophus_silvicultor","Cephalophus_silvicultor.2"
+"16","Rhinoceros_sondaicus","Rhinoceros_sondaicus.1"
+"17","Bison_bonasus","Bison_bonasus.1"
+"18","Microgale_thomasi","Microgale_thomasi.2"
+"19","Taxidea_taxus","Taxidea_taxus.1"
+"20","Brachyodus_onoideum","Brachyodus_onoideum.1"
+"21","Rhynchocyon_petersi","Rhynchocyon_petersi.1"
+"22","Nanophoca_vitulinoides","Nanophoca_vitulinoides.1"
+"23","Nanophoca_vitulinoides","Nanophoca_vitulinoides.2"
+"24","Nanophoca_vitulinoides","Nanophoca_vitulinoides.3"
+"25","Psephoderma","Psephoderma.1"
+"26","Alligator","Alligator.1"
+"27","Basilosaurus","Basilosaurus.1"
+"28","Chironectes_minimus","Chironectes_minimus.1"
+"29","Cricosaurus","Cricosaurus.1"
+"30","Alligator","Alligator.2"
+"31","Maiacetus","Maiacetus.1"
+"32","Chironectes_minimus","Chironectes_minimus.2"
+"33","Chironectes_minimus","Chironectes_minimus.3"
+"34","Hexaprotodon_garyam","Hexaprotodon_garyam.1"
+"35","Aptenodytes______","Aptenodytes______.1"
+"36","Aptenodytes______","Aptenodytes______.2"
+"37","Dyrosaurid","Dyrosaurid.1"
+"38","Nothosaurus_568","Nothosaurus_568.1"
+"39","Phalacrocorax_harrisi","Phalacrocorax_harrisi.1"
+"40","Psephoderma","Psephoderma.2"
+"41","Maiacetus","Maiacetus.2"
+"42","Nothosaurus_568","Nothosaurus_568.2"
+"43","Spinosaurus_","Spinosaurus_.1"
+"44","Spinosaurus_","Spinosaurus_.2"
+"45","Spinosaurus_","Spinosaurus_.3"
+"46","Spinosaurus_","Spinosaurus_.4"
+"47","Spinosaurus_","Spinosaurus_.5"
+"48","Spinosaurus_","Spinosaurus_.6"
+"49","Spinosaurus_","Spinosaurus_.7"
+"50","Spinosaurus_","Spinosaurus_.8"
+"51","Spinosaurus_","Spinosaurus_.9"
+"52","Spinosaurus_","Spinosaurus_.10"
+"53","Spinosaurus_","Spinosaurus_.11"
+"54","Suchomimus","Suchomimus.1"
+"55","Suchomimus","Suchomimus.2"
+"56","Suchomimus","Suchomimus.3"
+"57","Baryonyx","Baryonyx.1"
+"58","Baryonyx","Baryonyx.2"
+"59","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.09
+* index-name alignment check: OK

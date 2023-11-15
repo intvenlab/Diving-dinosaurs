@@ -1,0 +1,79 @@
+Logfile for a session of program: bootstrap_binary.r
+-----------------------------------------------------
+INPUT:
+workDir: C:/dino_nature/output/2023-11-07-D1\bs/set_1814
+Nbootstrapsets: 2000
+phyloFDAfile: c:/dino_nature/code/phylo.fda.R
+auxFile: c:/dino_nature/code/auxiliary.r
+boneType: femur
+regressionData.file: C:/dino_nature/output/2023-11-07-D1\bs/set_1814/femur_set_1814.csv
+applyDataFilter: FALSE
+addTreeTips: TRUE
+Ntrees: 100
+calculateTrees: TRUE
+saveTrees: FALSE
+
+
+OPERATIONAL CHECKS:
+* Regression data contains multiple copies of some taxa (user added variants of existing test taxa 
+   or replacements due to bootstrap are present) which are not in the phylo tree:
+     original taxon,   duplicate   
+"1","Euroscaptor_micrura","Euroscaptor_micrura.1"
+"2","Mammuthus_sp","Mammuthus_sp.1"
+"3","Lacerta_viridis","Lacerta_viridis.1"
+"4","Apteryx_australis","Apteryx_australis.1"
+"5","Tamandua_tetradactyla","Tamandua_tetradactyla.1"
+"6","Sphenodon_punctatus","Sphenodon_punctatus.1"
+"7","Monodelphis_domestica","Monodelphis_domestica.1"
+"8","Apteryx_australis","Apteryx_australis.2"
+"9","Elomeryx_borbonicus_","Elomeryx_borbonicus_.1"
+"10","Apteryx_australis","Apteryx_australis.3"
+"11","Capreolus_capreolus","Capreolus_capreolus.1"
+"12","Alces_americanus","Alces_americanus.1"
+"13","Raphus","Raphus.1"
+"14","Vulpes_vulpes","Vulpes_vulpes.1"
+"15","Nyctereutes_procyonoides","Nyctereutes_procyonoides.1"
+"16","Chironectes_minimus","Chironectes_minimus.1"
+"17","Nothosaurus_giganteus","Nothosaurus_giganteus.1"
+"18","Hesperornis","Hesperornis.1"
+"19","Chironectes_minimus","Chironectes_minimus.2"
+"20","Desmana_moschata","Desmana_moschata.1"
+"21","Lutra_vulgaris","Lutra_vulgaris.1"
+"22","Lutra_vulgaris","Lutra_vulgaris.2"
+"23","Aptenodytes______","Aptenodytes______.1"
+"24","Castor_fiber","Castor_fiber.1"
+"25","Nothosaurus_giganteus","Nothosaurus_giganteus.2"
+"26","Anarosaurus","Anarosaurus.1"
+"27","Neusticosaurus","Neusticosaurus.1"
+"28","Nothosaurus_giganteus","Nothosaurus_giganteus.3"
+"29","large_eocene_stem_penguin","large_eocene_stem_penguin.1"
+"30","Chironectes_minimus","Chironectes_minimus.3"
+"31","Aptenodytes______","Aptenodytes______.2"
+"32","Serpianosaurus","Serpianosaurus.1"
+"33","Rodhocetus","Rodhocetus.1"
+"34","Placondontia_indet","Placondontia_indet.1"
+"35","Spinosaurus_","Spinosaurus_.1"
+"36","Spinosaurus_","Spinosaurus_.2"
+"37","Spinosaurus_","Spinosaurus_.3"
+"38","Spinosaurus_","Spinosaurus_.4"
+"39","Spinosaurus_","Spinosaurus_.5"
+"40","Spinosaurus_","Spinosaurus_.6"
+"41","Spinosaurus_","Spinosaurus_.7"
+"42","Spinosaurus_","Spinosaurus_.8"
+"43","Spinosaurus_","Spinosaurus_.9"
+"44","Spinosaurus_","Spinosaurus_.10"
+"45","Spinosaurus_","Spinosaurus_.11"
+"46","Suchomimus","Suchomimus.1"
+"47","Suchomimus","Suchomimus.2"
+"48","Suchomimus","Suchomimus.3"
+"49","Baryonyx","Baryonyx.1"
+"50","Baryonyx","Baryonyx.2"
+"51","Baryonyx","Baryonyx.3"
+ 
+* Phylo tree and the main data and strata files have been modified to include duplicated taxa before the scaled random trees are generated.
+* Selected categorical labels column: diving.or.not
+* diving.or.equal column is identical to Diving column.
+* Regression excludes flying taxa.
+* Diving labels that are present in regression: 0,2
+* lambda (calculated from a random tree) = : 0.1
+* index-name alignment check: OK
