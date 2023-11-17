@@ -11,7 +11,7 @@ Depends on:  python, r, r studio, julia language, jupyter notebook
 
 Add support for the jupyter notebook julia kernel by installing it from Julia: 
 
-```import Pkg; Pkg.add("IJulia"); Pkg.add("DataFrames"); Pkg.add("DataFrames"); Pkg.add("CSV"); Pkg.add("RCall")```
+```import Pkg; Pkg.add("IJulia"); Pkg.add("DataFrames"); Pkg.add("DataFrames"); Pkg.add("CSV"); Pkg.add("RCall"); Pkg.add("Glob"); ```
 
 From R studio, install these additional packages via the IDE, under "Tools" -> "Install Packages"
 
